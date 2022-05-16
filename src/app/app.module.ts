@@ -112,7 +112,7 @@ FullCalendarModule.registerPlugins([ // register FullCalendar plugins
     SwiperModule,
     ChartsModule,
     NgCircleProgressModule.forRoot(),
-    NouisliderModule,
+
     FullCalendarModule,
     Daterangepicker
   ],
