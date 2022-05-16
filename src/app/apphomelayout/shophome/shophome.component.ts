@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { NouiFormatter } from "ng2-nouislider";
+
 import SwiperCore, { Pagination } from "swiper/core";
 SwiperCore.use([Pagination]);
 

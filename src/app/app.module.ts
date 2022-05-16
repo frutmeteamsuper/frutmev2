@@ -3,7 +3,6 @@ import { BrowserModule } from '@angular/platform-browser';
 import { SwiperModule } from 'swiper/angular';
 import { ChartsModule } from 'ng2-charts';
 import { NgCircleProgressModule} from 'ng-circle-progress';
-import { NouisliderModule } from 'ng2-nouislider';import { FullCalendarModule } from '@fullcalendar/angular'; // must go before plugins
 import dayGridPlugin from '@fullcalendar/daygrid'; // a plugin!
 import { Daterangepicker } from 'ng2-daterangepicker';
 
